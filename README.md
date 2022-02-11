@@ -1,4 +1,9 @@
 # odin_landing_page
 Odin CSS Project: Landing Page
 
-<!-- Come back here when you learn more -->
+
+
+https://www.youtube.com/watch?v=SZdVWKM1ILs
+
+
+I'll be back (when i learn some more)
